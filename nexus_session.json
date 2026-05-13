@@ -1,0 +1,95 @@
+{
+  "session_id": "20260505_144258",
+  "total_turns": 8,
+  "user_name": null,
+  "topics_discussed": [
+    "machine learning",
+    "machine learning"
+  ],
+  "mood_history": [],
+  "conversation_log": [
+    {
+      "role": "bot",
+      "content": "📚 **MACHINE LEARNING**\n\n💡 Machine Learning is a subset of AI where systems learn patterns from data without explicit programming.\n\n📂 **Types:**\n   • Supervised Learning\n   • Unsupervised Learning\n   • Reinforcement Learning\n\n🛠️ **Popular Frameworks:**\n   • TensorFlow\n   • PyTorch\n   • Scikit-learn\n   • Keras\n\n🚀 **Applications:**\n   • Image Recognition\n   • NLP\n   • Recommendation Systems\n   • Predictive Analytics\n\nWant me to explain any specific aspect of machine learning? 🤔",
+      "timestamp": "2026-05-05T14:40:22.975528"
+    },
+    {
+      "role": "user",
+      "content": "by",
+      "timestamp": "2026-05-05T14:42:49.401242"
+    },
+    {
+      "role": "bot",
+      "content": "Farewell! Thanks for the conversation. Have a fantastic day! 🌈\n\n📌 We discussed: machine learning, machine learning",
+      "timestamp": "2026-05-05T14:42:49.401242"
+    },
+    {
+      "role": "user",
+      "content": "bye",
+      "timestamp": "2026-05-05T14:42:58.531418"
+    },
+    {
+      "role": "bot",
+      "content": "Farewell! Thanks for the conversation. Have a fantastic day! 🌈\n\n📌 We discussed: machine learning, machine learning",
+      "timestamp": "2026-05-05T14:42:58.531418"
+    }
+  ],
+  "interaction_summary": [
+    {
+      "turn": 1,
+      "input": "Hi",
+      "intent": "GREETING",
+      "confidence": 0.9,
+      "response_preview": "Welcome back! Great to see you again. What shall w..."
+    },
+    {
+      "turn": 2,
+      "input": "what you can do?",
+      "intent": "UNKNOWN",
+      "confidence": 0.0,
+      "response_preview": "Interesting input! My pattern matcher didn't catch..."
+    },
+    {
+      "turn": 3,
+      "input": "what is genrative ai",
+      "intent": "KNOWLEDGE_GENERAL",
+      "confidence": 0.8,
+      "response_preview": "That's an interesting question! While my knowledge..."
+    },
+    {
+      "turn": 4,
+      "input": "what is machine learning",
+      "intent": "KNOWLEDGE_GENERAL",
+      "confidence": 0.9,
+      "response_preview": "📚 **MACHINE LEARNING**\n\n💡 Machine Learning is a su..."
+    },
+    {
+      "turn": 5,
+      "input": "what logistic regression",
+      "intent": "UNKNOWN",
+      "confidence": 0.0,
+      "response_preview": "I'm not sure I understand. Could you rephrase that..."
+    },
+    {
+      "turn": 6,
+      "input": "Want me to explain any specific aspect of machine learning?  yes",
+      "intent": "KNOWLEDGE_GENERAL",
+      "confidence": 0.8,
+      "response_preview": "📚 **MACHINE LEARNING**\n\n💡 Machine Learning is a su..."
+    },
+    {
+      "turn": 7,
+      "input": "by",
+      "intent": "FAREWELL",
+      "confidence": 0.5,
+      "response_preview": "Farewell! Thanks for the conversation. Have a fant..."
+    },
+    {
+      "turn": 8,
+      "input": "bye",
+      "intent": "FAREWELL",
+      "confidence": 1.0,
+      "response_preview": "Farewell! Thanks for the conversation. Have a fant..."
+    }
+  ]
+}
