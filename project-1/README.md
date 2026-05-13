@@ -377,4 +377,6 @@ You can improve:
 BS Computer Science Student
 
 ---
+## 🖼️ Home Screen
 
+![home](screenshots/home.png)
