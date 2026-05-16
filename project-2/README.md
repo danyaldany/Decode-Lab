@@ -252,4 +252,4 @@ This project is for educational and internship purposes.
 
 ![dashboard](screenshots/dashboard.png)
 ![prediction-page](screenshots/prediction-page.png)
-![dashboard](analytics/analytics.png)
+![analytics](screenshots/analytics.png)
