@@ -250,4 +250,4 @@ This project is for educational and internship purposes.
 </div>
 ```
 
-![Screenshot 2026-05-16 092811](screenshots/Screenshot 2026-05-16 092811.png.png)
+![Screenshot 2026-05-16 092811](screenshots/Screenshot 2026-05-16 092811.png)
